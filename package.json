@@ -1,0 +1,12 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Simple static weather app",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"No build step required\""
+  },
+  "author": "YourName",
+  "license": "ISC"
+}
+
